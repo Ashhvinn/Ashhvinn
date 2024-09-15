@@ -2,11 +2,11 @@
 
 <img align='right' src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" height=215 width=200>
 
-- Innovative BE Computer Science Engineering Student
-- I am a Passionate pursuing Computer Science Engineering student eager to contribute creativity, dedication, and a fresh perspective to a dynamic team. Excited about leveraging academic knowledge into real-world solutions. Open to new challenges and committed to continuous learning. Secure an Opportunity to fully utilize my experience and Skills while making a significant Contribution to the Success.
-- I am available on LinkedIn and Gmail.
-- Aside from coding, I like to travel and explore new things.
+Aspiring Data Scientist | Analyst | Passionate About Data-Driven Solutions
 
+As a recent Computer Science Engineering graduate, I am passionate about turning complex data into actionable insights. I have a strong foundation in statistical analysis, machine learning, and data visualization, coupled with hands-on experience in Python, SQL, MS Excel, and Power BI. My background includes data cleaning, exploratory analysis, and predictive modeling across several real-world datasets, driving my enthusiasm for uncovering hidden patterns and informing strategic decisions.
+
+Eager to join a dynamic team where I can apply my skills and continue to grow, I am committed to leveraging data to solve real-world problems and fuel innovation.
 
 
 <h4>Connect Through</h4>
